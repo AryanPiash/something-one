@@ -1,0 +1,11 @@
+h1{
+    font-size: 45px;
+    color: coral;
+}
+button{
+    padding: 7px 25px;
+    color: navy;
+    background-color: #90ee90;
+    font-weight: bold;
+    border: none;
+}
